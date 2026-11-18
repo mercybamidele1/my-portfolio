@@ -490,13 +490,6 @@ h6{
         height: auto; 
     }
 
-    .location small, .phone small, .airo small {
-    text-decoration: none;
-    color: #FFFFFF;
-    font-size: 14px;
-}
-
-
     input, textarea {
         width: 100%;
         box-sizing: border-box;
